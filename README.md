@@ -1,5 +1,6 @@
 # How to Play
-The object is to get the player to the water without being hit by the enemy bugs.
+To start the game open index.html in a Javascript-enabled browser. You (the player) will be at the
+bottom of the screen and you need to make your way to the water without getting hit by the enemy bugs.
 
 ## Moving the Player
 You move the player with the arrow keys on the keyboard. When the player reaches the water - you win! If you get hit by a bug you lose and go back to the starting position.
